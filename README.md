@@ -39,6 +39,6 @@ This application was built using:
 
 # Authors
 
-- Caitlin Malloch ([![Portfolio here](https://caitlinmalloch.netlify.app/))
+- Caitlin Malloch [Portfolio here](https://caitlinmalloch.netlify.app/)
 
 # License
