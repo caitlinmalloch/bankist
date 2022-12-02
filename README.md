@@ -27,6 +27,8 @@ Login Page Preview
 ![live-site-test-1](https://user-images.githubusercontent.com/96154629/205401400-1df8e919-5add-4e66-9b99-72ea3ace0453.png)
 
 Account Page Preview (Account 1, currency in EUR)
+![live-site-test-2](https://user-images.githubusercontent.com/96154629/205401846-b69b8439-42c6-494f-8fbe-34c93ffed409.png)
+
 
 ## Tech Stack
 
