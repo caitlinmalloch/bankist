@@ -20,7 +20,7 @@ Login credentials:
   
 ## Live Site 
 
-The live site is hosted here: bankist-caitlin-malloch.netlify.app
+The live site is hosted here: [Bankist](bankist-caitlin-malloch.netlify.app)
 
 Hosted by [![Netlify Status](https://api.netlify.com/api/v1/badges/09c82033-3dd6-4e74-9572-9709cea50596/deploy-status)](https://app.netlify.com/sites/bankist-caitlin-malloch/deploys)
 
