@@ -19,8 +19,10 @@ User 2: Joey Tribbiani | User: jt | PIN: 2222
 ## Live Site
 
 The live site is currently hosted by Netlify.
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/09c82033-3dd6-4e74-9572-9709cea50596/deploy-status)](https://app.netlify.com/sites/bankist-caitlin-malloch/deploys)
-[Bankist Live Site](bankist-caitlin-malloch.netlify.app): bankist-caitlin-malloch.netlify.app
+
+[Bankist Live Site](https://bankist-caitlin-malloch.netlify.app)bankist-caitlin-malloch.netlify.app
 
 Preview of the login screen:
 ![Login Screen](./live-site-test-1.png)
