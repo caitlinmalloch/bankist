@@ -350,6 +350,7 @@ btnLoan.addEventListener("click", function (e) {
   inputLoanAmount.value = "";
 });
 
+// Close account functionality
 btnClose.addEventListener("click", function (e) {
   e.preventDefault();
 
