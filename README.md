@@ -26,7 +26,8 @@ The live site is currently hosted by Netlify.
 [Bankist Live Site](https://bankist-caitlin-malloch.netlify.app)bankist-caitlin-malloch.netlify.app
 =======
 [Bankist Live Site](bankist-caitlin-malloch.netlify.app): bankist-caitlin-malloch.netlify.app
->>>>>>> 197539292373f0700f140ec2d8566268b0501d63
+
+> > > > > > > 197539292373f0700f140ec2d8566268b0501d63
 
 Preview of the login screen:
 ![Login Screen](./live-site-test-1.png)
@@ -71,7 +72,3 @@ SOFTWARE.
 ## Acknowledgements
 
 - The Complete JavaScript Course 2022: From Zero to Expert! by Jonas Schmedtmann
-
-## Current bugs
-
-- The sort functionality
