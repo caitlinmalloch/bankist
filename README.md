@@ -16,16 +16,17 @@ There are two accounts being used for this application currently. Login credenti
 User 1: Rachel Green | User: rg | PIN: 1111
 User 2: Joey Tribbiani | User: jt | PIN: 2222
 
-## Live Site
+## Hosting
 
 The live site is currently hosted by Netlify.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/09c82033-3dd6-4e74-9572-9709cea50596/deploy-status)](https://app.netlify.com/sites/bankist-caitlin-malloch/deploys)
 
-<<<<<<< HEAD
-[Bankist Live Site](https://bankist-caitlin-malloch.netlify.app)bankist-caitlin-malloch.netlify.app
-=======
-[Bankist Live Site](bankist-caitlin-malloch.netlify.app): bankist-caitlin-malloch.netlify.app
+# Live Site Link
+
+[Bankist Live Site](https://bankist-caitlin-malloch.netlify.app)
+
+- bankist-caitlin-malloch.netlify.app
 
 > > > > > > > 197539292373f0700f140ec2d8566268b0501d63
 
