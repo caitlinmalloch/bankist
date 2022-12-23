@@ -28,7 +28,7 @@ The live site is currently hosted by Netlify.
 
 - bankist-caitlin-malloch.netlify.app
 
-> > > > > > > 197539292373f0700f140ec2d8566268b0501d63
+# UI Preview
 
 Preview of the login screen:
 ![Login Screen](./live-site-test-1.png)
