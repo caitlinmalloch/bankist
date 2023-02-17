@@ -1,5 +1,7 @@
 # BANKIST
 
+![Bankist](./logo.png)
+
 Bankist is an online banking web application for a fictional company. This web application allows users to:
 
 - Log in to their account using credentials
